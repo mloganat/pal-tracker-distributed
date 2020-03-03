@@ -1,5 +1,5 @@
 applications:
-- name: tracker-registration
+- name: tracker-registration-830080
   path: ./applications/registration-server/build/libs/registration-server.jar
   routes:
   - route: registration-pal-830080.mlog
